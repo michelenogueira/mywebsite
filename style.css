@@ -209,7 +209,7 @@ p {
 #hero::after {
 	content: '';
 	position: absolute;
-	right: 0;
+	left: 0;
 	top: 0;
 	height: 100%;
 	width: 100%;
@@ -228,6 +228,7 @@ p {
 	width: fit-content;
 	font-size: 4rem;
 	position: relative;
+	left: 100px;
 	color: transparent;
 	animation: text_reveal .5s ease forwards;
 	animation-delay: 1s;
@@ -245,7 +246,7 @@ p {
 #hero h1 span {
 	position: absolute;
 	top: 0;
-	right: 0;
+	left: 100px;
 	height: 100%;
 	width: 0;
 	background-color: crimson;
