@@ -1,9 +1,3 @@
-# one-page-website-html-css-project-for-practice
-## Watch The Complete Tutorial : https://youtu.be/ZFQkb26UD1Y
+# Minha página pessoal
 
-This project is for html &amp; css practice. We made this for youtube tutorial purpose.
-<b>coded by [Shaif Arfan](https://github.com/shaifarfan)</b>
-### 👍 HAVE FUN 👍
-Thanks, Arfan
-
-![Watch Now](./img/Design.jpg)
+Esta página foi desenvolvida tomando como referência o projeto html &amp; css <b>coded by [Shaif Arfan](https://github.com/shaifarfan)</b>
