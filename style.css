@@ -228,7 +228,7 @@ p {
 	width: fit-content;
 	font-size: 4rem;
 	position: relative;
-	left: 100px;
+	left: 500px;
 	color: transparent;
 	animation: text_reveal .5s ease forwards;
 	animation-delay: 1s;
@@ -244,9 +244,9 @@ p {
 	animation-delay: 3s;
 }
 #hero h1 span {
-	position: absolute;
+	position: relative;
 	top: 0;
-	left: 100px;
+	left: 500px;
 	height: 100%;
 	width: 0;
 	background-color: crimson;
