@@ -65,7 +65,7 @@ p {
 	background-color: crimson;
 }
 .brand h1 {
-	font-size: 3rem;
+	font-size: 2rem;
 	text-transform: uppercase;
 	color: white;
 }
@@ -228,7 +228,7 @@ p {
 #hero h1 {
 	display: block;
 	width: fit-content;
-	font-size: 2rem;
+	font-size: 1rem;
 	position: relative;
 	left: 750px;
 	color: transparent;
@@ -250,6 +250,7 @@ p {
 	top: 0;
 	left: 750px;
 	height: 100%;
+	font-size: 1rem;
 	width: 0;
 	background-color: crimson;
 	animation: text_reveal_box 1s ease;
