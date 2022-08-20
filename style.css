@@ -67,7 +67,7 @@ p {
 .cta2 {
 	display: inline-block;
 	padding: 10px 30px;
-	color: white;
+	color: crimson;
 	background-color: transparent;
 	position: relative;
 	left: 150px;
@@ -80,8 +80,8 @@ p {
 	transition-property: background-color, color;
 }
 .cta2:hover {
-	color: white;
-	background-color: crimson;
+	color: crimson;
+	background-color: white;
 }
 .brand h1 {
 	font-size: 2rem;
