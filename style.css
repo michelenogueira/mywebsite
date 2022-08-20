@@ -692,6 +692,13 @@ p {
 		height: 100%;
 	}
 	/* End Project */
+	
+	/* Media Section */
+	#media .media-bottom .media-item {
+		flex-basis: 45%;
+		margin: 2.5%;
+	}
+	/* End Media Section */
 
 	/* About */
 	#about .about {
@@ -779,6 +786,10 @@ p {
 	/* End header */
 
 	#services .service-bottom .service-item {
+		flex-basis: 22%;
+		margin: 1.5%;
+	}
+	#media .media-bottom .media-item {
 		flex-basis: 22%;
 		margin: 1.5%;
 	}
