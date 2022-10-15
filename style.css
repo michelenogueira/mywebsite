@@ -108,6 +108,7 @@ p {
 }
 #header .nav-bar {
 	display: flex;
+	position: relative;
 	align-items: center;
 	justify-content: space-between;
 	width: 100%;
