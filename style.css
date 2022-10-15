@@ -24,6 +24,11 @@ img {
 	width: 100%;
 	object-fit: cover;
 }
+img-brand {
+	height: 50%;
+	width: 50%;
+	object-fit: cover;
+}
 p {
 	color: black;
 	font-size: 2.0rem;
@@ -88,16 +93,6 @@ p {
 	text-transform: uppercase;
 	color: white;
 	margin: 10px 5%;
-	position: absolute;
-	background-color: rgb(31, 30, 30);
-	width: 100vw;
-	height: 100vh;
-	left: 100%;
-	top: 0;
-	display: flex;
-	flex-direction: column;
-	justify-content: space-between;
-	align-items: center;
 }
 .brand h1 span {
 	color: crimson;
