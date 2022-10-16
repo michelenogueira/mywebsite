@@ -352,6 +352,11 @@ p {
 	color: white;
 	text-align: left;
 }
+
+#services .service-item span {
+	color: crimson;
+}
+
 /* End Services Section */
 
 /* Projects section */
