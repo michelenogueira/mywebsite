@@ -353,11 +353,16 @@ p {
 	text-align: left;
 }
 
+#services .service-item a {
+	color: white;
+}
+
+
 #services .service-item span {
 	color: crimson;
 }
 
-#services .service-item span:hover a {
+#services .service-item:hover a {
 	color: crimson;
 }
 
