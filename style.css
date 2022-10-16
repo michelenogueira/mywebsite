@@ -357,6 +357,10 @@ p {
 	color: crimson;
 }
 
+#services .service-item span:hover a {
+	color: crimson;
+}
+
 /* End Services Section */
 
 /* Projects section */
