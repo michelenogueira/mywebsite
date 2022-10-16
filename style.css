@@ -414,10 +414,19 @@ p {
 	font-weight: 500;
 	margin-top: 10px;
 }
+
 #projects .project-info p {
 	color: white;
 }
 #projects .project-info span {
+	color: crimson;
+}
+
+#projects .project-info a {
+	color: white;
+}
+
+#projects .project-info:hover a {
 	color: crimson;
 }
 
@@ -514,6 +523,10 @@ p {
 	text-align: left;
 }
 
+#media .media-item:hover a {
+	color: crimson;
+}
+
 
 /* End Services Section */
 
@@ -545,11 +558,16 @@ p {
 #about .col-right a {
 	color: crimson;
 }
+
 #about .col-right .cta {
 	color: black;
 	margin-bottom: 50px;
 	padding: 10px 20px;
 	font-size: 2rem;
+}
+
+#about .col-right:hover a {
+	color: crimson;
 }
 #about .col-left .about-img {
 	height: 100%;
