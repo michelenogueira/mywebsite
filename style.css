@@ -5,7 +5,7 @@
 	box-sizing: border-box;
 }
 html {
-	font-size: 9px;
+	font-size: 8px;
 	font-family: 'Montserrat', sans-serif;
 	scroll-behavior: smooth;
 }
@@ -252,7 +252,7 @@ p {
 #hero h1 {
 	display: block;
 	width: fit-content;
-	font-size: 0.1rem;
+	font-size: 0.05rem;
 	position: relative;
 	left: 600px;
 	color: transparent;
@@ -274,7 +274,7 @@ p {
 	top: 0;
 	left: 600px;
 	height: 100%;
-	font-size: 0.1rem;
+	font-size: 0.05rem;
 	width: 0;
 	background-color: crimson;
 	animation: text_reveal_box 1s ease;
