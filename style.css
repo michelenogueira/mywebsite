@@ -254,7 +254,7 @@ p {
 	width: fit-content;
 	font-size: 0.1rem;
 	position: relative;
-	left: 650px;
+	left: 50px;
 	color: transparent;
 	animation: text_reveal .3s ease forwards;
 	animation-delay: 1s;
