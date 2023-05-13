@@ -240,7 +240,7 @@ p {
 	height: 100%;
 	width: 100%;
 	background-color: black;
-	opacity: .8;
+	opacity: .5;
 	z-index: -1;
 }
 #hero .hero {
@@ -254,7 +254,7 @@ p {
 	width: fit-content;
 	font-size: 0.1rem;
 	position: relative;
-	left: 50px;
+	left: 450px;
 	color: transparent;
 	animation: text_reveal .3s ease forwards;
 	animation-delay: 1s;
